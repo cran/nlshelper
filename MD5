@@ -1,0 +1,15 @@
+d01fb24b6f67b608ce5ee8b76efc6a5c *DESCRIPTION
+974ae77e7c2f2a059ba740f05489c892 *NAMESPACE
+8b1c3c239d955ea72010471489af3c9b *R/abline_range.R
+24101cb02104694f6cd93805674cabf9 *R/add_regres_line.R
+7d1272b5f7590afd2d9c08a5c6d9f391 *R/anova_nlslist.R
+9852088a01c4518534cea67eaa691b46 *R/plot_gam.R
+8708c72ad778019e05287dd5fcf4116b *R/plot_nls.R
+bd0abc6ce11a9730a873aa175b47fafd *R/tidy.nlslist.R
+ff873c9855c184cf0e371b895e6ee44b *R/utils.R
+95aac4ffeb44c9b7410a73f7f32ebea1 *man/abline_range.Rd
+3ef7a9cee97560b24c875548df205a7d *man/add_regres_line.Rd
+d78afaec3ed8b982623b98b577fad9b7 *man/anova_nlslist.Rd
+044e44d253fe500b6e2814610c44a077 *man/plot_gam.Rd
+3aa17062e457ab0040a0fb26104f5808 *man/plot_nls.Rd
+60eec3357ab76dcee79eb8040a454d6a *man/tidy.nlsList.Rd
